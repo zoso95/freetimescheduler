@@ -1,5 +1,5 @@
 # freetimescheduler
-A simple script to help you use your free time better. What this does is you create a TODO list, and this script will go into your calendar, find 'free time' and schedule your projects during those events. 
+A simple script to help you use your free time better. What this does is you create a TODO list, and this script will go into your calendar, find 'free time' and schedule your projects during those events. The scheduler works by filling your freetime with the highest priorty task that you have time to do, and then repeating that on the remaining time. 
 
 To use this do the following steps.
 
